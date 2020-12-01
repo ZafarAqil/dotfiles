@@ -1,0 +1,68 @@
+Xft.dpi:       96
+Xft.antialias: true
+Xft.hinting:   true
+Xft.rgba:      rgb
+Xft.autohint:  false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+
+! ------------------------------------------------------------------------------
+! ROFI Color theme 1
+! ------------------------------------------------------------------------------
+!rofi.color-enabled: true
+!rofi.color-window: #393939, #393939, #268bd2
+!rofi.color-normal: #393939, #ffffff, #393939, #268bd2, #ffffff
+!rofi.color-active: #393939, #268bd2, #393939, #268bd2, #205171
+!rofi.color-urgent: #393939, #f3843d, #393939, #268bd2, #ffc39c
+
+
+! ------------------------------------------------------------------------------
+! ROFI Color theme 2
+! ------------------------------------------------------------------------------
+!rofi.color-enabled: true
+!rofi.color-window: argb:cc2f343f, argb:cc2f343f, argb:cc2f343f
+!rofi.color-normal: argb:002f343f, #d8dee8, argb:002f343f, argb:002f343f, #e7763a
+!rofi.color-active: #393939, #268bd2, #393939, #268bd2, #205171
+!rofi.color-urgent: #393939, #f3843d, #393939, #268bd2, #ffc39c
+
+! Rofi
+rofi.font: Iosevka Nerd Font Bold 12
+rofi.padding: 20
+rofi.line-padding: 2
+rofi.color-enabled: true
+rofi.hide-scrollbar: true
+rofi.separator-style: solid
+rofi.color-window: #1c2023, #919ba0, #1c2023
+rofi.color-normal: #1c2023, #919ba0, #1c2023, #a4a4a4, #1c2023
+rofi.color-urgent: argb:00000000, #f43753, argb:00000000, argb:00000000, #e29a49
+rofi.color-active: argb:00000000, #49bbfb, argb:00000000, argb:00000000, #e29a49
+rofi.kb-cancel: Escape,Alt+F1
+
+
+! === gruvbox color scheme ===
+*background: #1d2021
+*foreground: #ebdbb2
+! Black + DarkGrey
+*color0:  #282828
+*color8:  #928374
+! DarkRed + Red
+*color1:  #cc241d
+*color9:  #fb4934
+! DarkGreen + Green
+*color2:  #98971a
+*color10: #b8bb26
+! DarkYellow + Yellow
+*color3:  #d79921
+*color11: #fabd2f
+! DarkBlue + Blue
+*color4:  #458588
+*color12: #83a598
+! DarkMagenta + Magenta
+*color5:  #b16286
+*color13: #d3869b
+! DarkCyan + Cyan
+*color6:  #689d6a
+*color14: #8ec07c
+! LightGrey + White
+*color7:  #a89984
+*color15: #ebdbb2
