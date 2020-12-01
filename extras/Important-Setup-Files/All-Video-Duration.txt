@@ -1,0 +1,1 @@
+exiftool -S -n *.ts | awk '/^Duration/ {print $2}' | paste -sd+ -| bc 
